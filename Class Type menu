@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
-<body>
+ <head> 
+4     <title>Class Type Menu</title> 
+5      
+6      <link rel="stylesheet" type="text/css" href="/CS330/CSSFiles/classTypeCss.css"> 
+7      
+8   </head> 
+
 
 <h2>Select Class Type</h2>
 
