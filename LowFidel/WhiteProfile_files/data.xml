@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="28" UniqueID="{6DF9669F-EAB0-4B23-AFFF-73E6F1C328B7}" Name="Button" NameU="Button" Master="4">
+					<Text>Login with E-ID</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.375000000000000</PinX>
+						<PinY Unit="IN_F">7.775000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Login.htm</HLURL:Description>
+										<HLURL:Address>../Login.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="32" UniqueID="{6E0B1E78-07DF-4787-A66B-F9F767044B75}" Name="Button.32" NameU="Button.32" Master="4">
+					<Text>Search for Classes</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.750000000000000</PinX>
+						<PinY Unit="IN_F">7.775000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>class menu.htm</HLURL:Description>
+										<HLURL:Address>../class menu.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="36" UniqueID="{47E4CC7A-DA3E-4FCF-AEB0-CE9B4C8B7E82}" Name="Button.36" NameU="Button.36" Master="4">
+					<Text>Search for Professors</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.125000000000000</PinX>
+						<PinY Unit="IN_F">7.775000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Teacher menu.htm</HLURL:Description>
+										<HLURL:Address>../Teacher menu.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="56" UniqueID="{DBA85FDA-09FD-4CF7-B97D-E4B54D2BFA28}" Name="Panel" NameU="Panel" Master="10">
+					<XForm>
+						<PinX Unit="IN_F">5.500000000000000</PinX>
+						<PinY Unit="IN_F">3.750000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="99" UniqueID="{27FB4914-CE66-4980-9136-4BD70B5DE580}" Name="Menu bar item" NameU="Menu bar item" Master="15">
+					<Text>Class</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.333838791160808</PinX>
+						<PinY Unit="IN_F">3.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="105" UniqueID="{08855EAA-6410-484B-A1AA-51CE4F816995}" Name="Menu bar item.105" NameU="Menu bar item.105" Master="15">
+					<Text>Room</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.278024256566515</PinX>
+						<PinY Unit="IN_F">3.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="107" UniqueID="{95EDCCEE-C395-4184-89D7-C23FE9F07B0D}" Name="Menu bar item.107" NameU="Menu bar item.107" Master="15">
+					<Text>Day &amp; Time</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.604272842407227</PinX>
+						<PinY Unit="IN_F">3.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="109" UniqueID="{272F3BE3-94C6-43C6-B79E-23C5DAC40AE1}" Name="Menu item" NameU="Menu item" Master="2">
+					<Text>CS 321-002  EB 3140  TR 09:30am-10:45am</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.646045684814453</PinX>
+						<PinY Unit="IN_F">2.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="128" UniqueID="{BFEF5293-9212-466F-A1FE-F2DF958A6F88}" Name="Menu item.128" NameU="Menu item.128" Master="2">
+					<Text>CS 482-001  EB 0140  TR 12:30pm-01:45pm</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.646045684814453</PinX>
+						<PinY Unit="IN_F">2.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="137" UniqueID="{612D50CE-81C0-434C-82C9-7BE5CF152BCB}" Name="Menu item.137" NameU="Menu item.137" Master="2">
+					<Text>CS 321-001  EB 0165  TR 03:30pm-04:45pm</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.646045684814453</PinX>
+						<PinY Unit="IN_F">1.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="55" UniqueID="{2DF9A6ED-E7D3-4169-A7BF-DBCF9D005B37}" Name="Sheet.55" NameU="Sheet.55">
+					<XForm>
+						<PinX Unit="IN_F">9.770000000000000</PinX>
+						<PinY Unit="IN_F">7.650000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="57" UniqueID="{F3523A83-23C2-48F0-9CFD-F700FC3103A5}" Name="Sheet.57" NameU="Sheet.57">
+					<XForm>
+						<PinX Unit="IN_F">1.791666666666666</PinX>
+						<PinY Unit="IN_F">5.442083333333332</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="71" UniqueID="{CB4EA9B5-E785-4680-BAD0-04E3CDB3852F}" Name="Label" NameU="Label" Master="11">
+					<Text>Professor William White, Ph. D.</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.208333333333334</PinX>
+						<PinY Unit="IN_F">6.405625000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="74" UniqueID="{3559D179-1E4A-4042-BDAB-F80BFC19C8A7}" Name="Label.74" NameU="Label.74" Master="11">
+					<Text>Office : EB 3180
+
+Phone: 618-650-3483
+
+Email: wwhite@siue.edu</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.208333333333334</PinX>
+						<PinY Unit="IN_F">5.136875000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="75" UniqueID="{07FAADA8-FF46-4353-92A6-9549B7B3E9E4}" Name="Label.75" NameU="Label.75" Master="11">
+					<Text>Courses:</Text>
+					<XForm>
+						<PinX Unit="IN_F">0.750000000000000</PinX>
+						<PinY Unit="IN_F">3.821875000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="77" UniqueID="{9E3A7298-FC01-4F26-9AC6-777847CC3270}" Name="Label.77" NameU="Label.77" Master="11">
+					<XForm>
+						<PinX Unit="IN_F">0.833333333333334</PinX>
+						<PinY Unit="IN_F">3.421875000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="147" UniqueID="{6D0CB31C-BB79-4902-9BBA-5B2CA5CE623E}" Name="Rectangle" NameU="Rectangle" Master="18">
+					<Text>Office Hours: 
+MWF 9:00-11:30AM
+MW 1:00 – 3:00PM</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.125000000000000</PinX>
+						<PinY Unit="IN_F">5.250000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="150" UniqueID="{C4CF3CDE-35BC-48A9-BE80-13D857B91FB4}" Name="Square" NameU="Square" Master="22">
+					<XForm>
+						<PinX Unit="IN_F">0.750000000000000</PinX>
+						<PinY Unit="IN_F">7.750000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Main Floor.htm</HLURL:Description>
+										<HLURL:Address>../Main Floor.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="151" UniqueID="{39F594D2-0FF8-4184-981B-ADA748B9C882}" Name="Home" NameU="Home" Master="6">
+					<XForm>
+						<PinX Unit="IN_F">0.750000000000000</PinX>
+						<PinY Unit="IN_F">7.750000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Main Floor.htm</HLURL:Description>
+										<HLURL:Address>../Main Floor.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="152" UniqueID="{C23DE5C3-85AB-4F76-BBAF-8B53B7AC29D9}" Name="Button.152" NameU="Button.152" Master="4">
+					<Text>Class Profile</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.000000000000000</PinX>
+						<PinY Unit="IN_F">2.850000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>class profile.htm</HLURL:Description>
+										<HLURL:Address>../class profile.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="219" UniqueID="{AE242F66-F8D4-46E1-B92C-46A1216D0BBC}" Name="Button.219" NameU="Button.219" Master="4">
+					<Text>Class Profile</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.000000000000000</PinX>
+						<PinY Unit="IN_F">1.850000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>class profile.htm</HLURL:Description>
+										<HLURL:Address>../class profile.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="223" UniqueID="{AA99CBC8-5BD7-48DC-B191-182B57C8A867}" Name="Button.223" NameU="Button.223" Master="4">
+					<Text>Class Profile</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.000000000000000</PinX>
+						<PinY Unit="IN_F">2.375000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>class profile.htm</HLURL:Description>
+										<HLURL:Address>../class profile.htm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="227" UniqueID="{8F0CCE0A-A51F-480E-9CFC-70514970CAAF}" Name="Label.227" NameU="Label.227" Master="11">
+					<Text>Class Link</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.000000000000000</PinX>
+						<PinY Unit="IN_F">3.325000000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
