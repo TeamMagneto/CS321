@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Select Class Type</h2>
+
+<ul style="list-style-type:none">
+<li><button type="button">Civil Engineering</ button> </li>  
+<li><button type="button">Computer Science</ button> </li>
+ <li><button type="button">Construction</ button> </li>
+ <li><button type="button">Electrical and Computer Engineering</ button> </li>
+ <li><button type="button">Mechanical Engineering</ button> </li>
+</ul>  
+
+</body>
+</html>
