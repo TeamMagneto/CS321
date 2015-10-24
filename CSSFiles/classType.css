@@ -4,9 +4,10 @@
     height: 30px;
      } 
      
-    <!-- h1{ 
-     text-align: center 
-     } -->
+h1{ 
+     float: center;
+     position: center;
+  }
      
 .nav{
     width: 150px;
