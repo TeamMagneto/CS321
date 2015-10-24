@@ -4,7 +4,13 @@
     height: 30px;
      } 
      
-     h1{ 
+    <!-- h1{ 
      text-align: center 
-     } 
+     } -->
      
+h1{
+    width: 150px;
+	height: 150px;
+	position: relative;
+	float: left;
+     }
