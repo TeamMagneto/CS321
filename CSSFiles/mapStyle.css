@@ -1,0 +1,35 @@
+.mainSection {
+	width : 75%;
+	height : 80%;
+	position : relative;
+	float : left;
+}
+
+.arrowSection {
+	width : 25%;
+	height : 80%;
+	position : relative;
+	float : right;
+}
+
+.map {
+	position : relative;
+	margin-left : 30%;
+}
+
+.upArrow {
+	position : relative;
+	padding : 15px;
+	vertical-align : center;
+	display : block;
+	margin : auto;
+	margin-top : 50%;
+}
+
+.downArrow {
+	position : relative;
+	padding : 15px;
+	vertical-align : center;
+	display : block;
+	margin : auto;
+}
