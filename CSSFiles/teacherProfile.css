@@ -1,12 +1,29 @@
 h{
 font-size: 200%;
+padding: 275px;
 }
 
-p{
-font-size: 200%;
+.profilePic{
+ width:250px;
+ height:250px;
+ position: absolute;
+    left: 0px;
+    padding: 10px;
 }
 
-img{
- width: 100px;
- height: 100px;
+.classTable{
+	margin-top:30px;
+}
+
+caption{
+	font-size: 200%;
+	font-weight: bold;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
 }
