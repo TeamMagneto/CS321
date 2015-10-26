@@ -33,3 +33,7 @@
 	display : block;
 	margin : auto;
 }
+
+#invisibleUpArrow {
+	visibility : hidden;
+}
